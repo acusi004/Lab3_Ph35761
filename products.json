@@ -1,1 +1,123 @@
+[
+    {
+        "id": 1,
+        "title": "Burger Classic",
+        "price": 100000,
+        "image": "https://i.pinimg.com/236x/eb/cb/c6/ebcbc6aaa9deca9d6efc1efc93b66945.jpg",
+        "categories":"burger",
+        "description":"Một chiếc burger thơm  ngon với bánh mì mềm mại"
+    },
+    {
+        "id": 2,
+        "title": "Pizza Pepperoni",
+        "price": 200000,
+        "image": "https://i.pinimg.com/236x/e6/1c/ef/e61cef37dffe3af9ce48d9e119176203.jpg",
+        "categories":"pizza",
+        "description":"Chiếc pizza nổi tiếng với lớp phô mai béo ngậy"
+    },
+    {
+        "id": 3,
+        "title":"cocacola",
+        "price":83000,
+        "image":"https://i.pinimg.com/236x/ec/c3/fa/ecc3fa67154eb6a9ee8bd58943233322.jpg",
+        "categories":"drink",
+        "description":"Sự kết hợp đặc sắc giữa mâm xôi mát lạnh và hương bạc hà tươi mới"
+    },
+    {
+        "id":4,
+        "title":"Spicy Chicken Delight",
+        "price":200000,
+        "image":"https://i.pinimg.com/236x/c8/4d/1e/c84d1e202914a5b04b648c9f528d27b9.jpg",
+        "categories":"burger",
+        "description":"Burger gà cay nồng, với patty gà chiên giòn"
+    },
+    {
+        "id":5,
+        "title":"Mushroom Swiss Bliss",
+        "price":100000,
+        "image":"https://i.pinimg.com/236x/09/37/b6/0937b659acd0ae46a1e1c173ae9bcbc3.jpg",
+        "categories":"burger",
+        "description":"Một trải nghiệm thú vị với patty bò"
+    },
+    {
+        "id":6,
+        "title":"BBQ Bacon Explosion",
+        "price":3000,
+        "image":"https://i.pinimg.com/236x/13/d8/a3/13d8a33b9ee9c5705ea7ea07af3b8744.jpg",
+        "categories":"burger",
+        "description":"Burger đậm chất BBQ với patty bò, bacon giòn"
+    },
+    {
+        "id":7,
+        "title":"Fishermans Catch Burger",
+        "price":40000,
+        "image":"https://i.pinimg.com/236x/1e/65/4f/1e654fac595d426d7ffffccd754b5977.jpg",
+        "categories":"burger",
+        "description":"Burger hải sản tươi ngon với patty cá hồi "
+    },
+    {
+        "id":8,
+        "title":"Margherita Supreme",
+        "price":9000,
+        "image":"https://i.pinimg.com/236x/fe/a7/dd/fea7ddb8e979bb8e78a0595213b3e0fc.jpg",
+        "categories":"pizza",
+        "description":"Pizza cổ điển với sốt cà chua, phô mai mozzarella"
+    },
+    {
+        "id":9,
+        "title":"Vegetarian Garden Delight",
+        "price":84000,
+        "image":"https://i.pinimg.com/236x/b1/4e/96/b14e967be4d2d4d121ec19d6de13ea7c.jpg",
+        "categories":"pizza",
+        "description":"Pizza chay ngon miệng với nấm tươi"
+    },
+    {
+        "id":10,
+        "title":"BBQ Chicken Fiesta",
+        "price":47000,
+        "image":"https://i.pinimg.com/236x/54/60/a0/5460a0721c26e6d3c7a1848ac1a24abd.jpg",
+        "categories":"pizza",
+        "description":"Pizza gà BBQ ngon tuyệt với patty gà"
+    },
+    {
+        "id":11,
+        "title":"Seafood Sensation",
+        "price":75000,
+        "image":"https://i.pinimg.com/236x/21/81/e4/2181e40e5fe024074073f44edee40293.jpg",
+        "categories":"pizza",
+        "description":"Pizza hải sản đặc biệt với hải sản tươi"
+    },
+    {
+        "id":12,
+        "title":"Sparkling Citrus Burst",
+        "price":20000,
+        "image":"https://i.pinimg.com/236x/16/0d/bc/160dbcd3eecf04afafbd4eb0aac43b80.jpg",
+        "categories":"drink",
+        "description":"Một hòa quyện tuyệt vời giữa cam"
+    },
+    {
+        "id":13,
+        "title":"Berry Fizz Delight",
+        "price":19000,
+        "image":"https://i.pinimg.com/236x/20/1e/41/201e41ff15b6599bb597a9bb801c4b34.jpg",
+        "categories":"drink",
+        "description":"Hương vị ngọt ngào của dâu tây và mâm xôi"
+    },
+    {
+        "id":14,
+        "title":"Chocolate Coffee Sparkle",
+        "price":20000,
+        "image":"https://i.pinimg.com/236x/f2/65/7c/f2657c204b9893a2f8f2207dfc16e0c9.jpg",
+        "categories":"drink",
+        "description":"Một kết hợp độc đáo giữa sô cô la"
+    },
+    {
+        "id":15,
+        "title":"Velvet Grape Splash",
+        "price":29000,
+        "image":"https://i.pinimg.com/236x/e8/b4/e5/e8b4e57c0a3e814d669c37d3b84a3225.jpg",
+        "categories":"drink",
+        "description":"Hương vị tinh tế của nho và vải"
+    }
 
+]
